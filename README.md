@@ -115,7 +115,8 @@ These findings indicate an association between facility-recorded confinement and
 
 The project includes a scatter plot examining the relationship between youth-reported confinement and facility confinement records.
 
-[View the confinement analysis visualization](https://glittery-vacherin-8619c0.netlify.app/Practitioner%E2%80%99s%20Brief_%20Youth%20Experience%20of%20Being%20Locked%20Up%20and%20Confinement%20Records_files/project_4_confinement_chart.png)
+[View the confinement analysis visualization](https://docs.google.com/document/d/1n_BAAmsxT_0m9K2_Qbk4BXr1m15ctfST6XTLHlW8OdI/edit?tab=t.0)
+
 
 *Figure 1. Relationship between youth-reported confinement experiences and facility-reported confinement records.*
 
@@ -190,15 +191,11 @@ The resources below provide access to the project's analysis notebooks and suppo
 
 ### 📄 Project Documentation
 
-**Project Document 1: Data Visualization of the Correlation of Youth Reports of Being Locked Up & Total Confinement Time**
-
-[Open Google Doc](https://docs.google.com/document/d/1n_BAAmsxT_0m9K2_Qbk4BXr1m15ctfST6XTLHlW8OdI/edit?tab=t.0)
-
-**Project Document 2: Research Question**
+**Project Document 1: Research Question**
 
 [Open Google Doc](https://docs.google.com/document/d/1IA4DtbhxJKCklxSWAaVj_bejrpTwqWVKwvw1QpGlNw4/edit?tab=t.0)
 
-**Project Document 3: Open Stress-Testing My Own Findings**
+**Project Document 2: Open Stress-Testing My Own Findings**
 
 [Open Google Doc](https://docs.google.com/document/d/1OatuCDRCnoIhd2gStuBArC8d83Wz1YrnJ-MwStFnK04/edit?tab=t.0#heading=h.tu2rpj4f9drw)
 
